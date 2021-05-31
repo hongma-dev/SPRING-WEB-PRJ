@@ -59,4 +59,7 @@ $RECYCLE.BIN/
 #Servers
 Servers*
 
+#Target
+*/target/**
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,java
