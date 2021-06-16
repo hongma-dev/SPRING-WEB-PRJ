@@ -30,6 +30,12 @@ public class BoardController {
 	}
 	
 	
+	@GetMapping("register")
+	public void register() {
+		
+		
+	}
+	
 	@PostMapping("register")
 	public String register(BoardVO vo, RedirectAttributes rttr) {
 		log.info("register method @@@@@@@@@@@@@@@@@@@@");
